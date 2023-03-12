@@ -1,4 +1,4 @@
-## Instagram Simulation
+## Instagram Simulation - Demo
 
 ### Backgroud
 An Instagram simulation in Python using React/JS, Flask, SQL, HTML/CSS hosted on an EC2 instance in Amazon Web Services
