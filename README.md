@@ -29,6 +29,7 @@ By Lyuyongkang Yuan <lyuyong@umich.edu> | Daniel Wang <danwyk@umich.edu>
 
 * #### Delete Comment
 > Remove a comment by pressing the delete comment button. Only comments created by the logged-in user should display a delete comment button.
+
 ![Demo](https://github.com/AGoodName244/p3-insta485-clientside/blob/main/demo-delete-comment.gif)
 
 
